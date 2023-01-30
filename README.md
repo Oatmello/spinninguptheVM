@@ -14,7 +14,7 @@ This tutorial teaches you how to get started making an active directory homelab 
 ## Operating System Used
 - Windows 10 (21H1)
 ## List of Prerequisites
--At least 8GB of RAM and a 4 core CPU
--About 2hrs of your time
--The willingness to learn!
+- At least 8GB of RAM and a 4 core CPU
+- About 2hrs of your time
+- The willingness to learn!
 ## Installation Steps
