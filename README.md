@@ -5,12 +5,12 @@
 # Getting Started: Spinning Up the VM
 This tutorial teaches you how to get started making an active directory homelab with Oracle VirtualBox.
 ## Environments & Technologies Used
--Virtual Box
--Powershell
--Microsoft Office 365
--Various Network Protocols
--Active Directory Domain Services
--Print Management
+- Virtual Box
+- Powershell
+- Microsoft Office 365
+- Various Network Protocols
+- Active Directory Domain Services
+- Print Management
 ## Operating System Used
 - Windows 10 (21H1)
 ## List of Prerequisites
